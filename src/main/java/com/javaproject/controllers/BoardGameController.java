@@ -72,4 +72,7 @@ public class BoardGameController {
         }
 
     }
+    private int getNumber() {
+	    return 0;
+    } 
 }
