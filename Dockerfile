@@ -1,3 +1,4 @@
+# java docker file is used to create docker java image
 FROM adoptopenjdk/openjdk11
   
 EXPOSE 8080
