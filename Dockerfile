@@ -1,4 +1,4 @@
-# create docker image for java application
+
 FROM adoptopenjdk/openjdk11
   
 EXPOSE 8080
