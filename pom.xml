@@ -116,7 +116,7 @@
 		</plugins>
 	</build>
 
-<!-- <distributionManagement>
+<distributionManagement>
    <repository>
       <id>maven-releases</id>
         <url>http://98.70.56.167:8081/repository/maven-releases/</url>
@@ -125,14 +125,6 @@
       <id>maven-snapshots</id>
         <url>http://98.70.56.167:8081/repository/maven-snapshots/</url>
    </snapshotRepository>
-</distributionManagement> -->
-	
-<distributionManagement>
-  <repository>
-    <id>dev-domain-maven-repo</id>
-    <url>https://dev-domain-605134438225.d.codeartifact.us-east-2.amazonaws.com/maven/maven-repo/</url>
-  </repository>
 </distributionManagement>
 	
-
 </project>
